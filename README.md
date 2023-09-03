@@ -64,9 +64,10 @@ endmodule
 Logic symbol & Truthtable
 ### truth table:
 HALF ADDER
-![image](https://github.com/DEEPAK2200233/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118707676/3a98dc5e-93f3-47f9-8cf4-df4fcdd254d3)
+![image](https://github.com/DEEPAK2200233/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118707676/3997d75f-ad92-490f-bc3c-481cca7f848c)
+
 FULL ADDER
-![image](https://github.com/DEEPAK2200233/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118707676/c9763ce9-f578-45b0-84c6-5273cb72e198)
+![image](https://github.com/DEEPAK2200233/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118707676/7aaa15c7-2a06-4a2c-b42e-61856eb4d214)
 
 ### RTL
 HALF ADDER
